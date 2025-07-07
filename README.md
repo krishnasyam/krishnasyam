@@ -1,6 +1,6 @@
 ## Hi there 👋
 <!-- 🌟 Header Section -->
-# Hi there, I’m **[Your Name]** 👋
+# Hi there, I’m **[krishnama raju]** 👋
 
 - 🧑‍💻 I’m a **Backend Engineer** passionate about cloud-native architecture, automation, and scalable systems.
 - 🌍 Based in **Hindupur, Andhra Pradesh, India**
