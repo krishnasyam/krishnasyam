@@ -1,65 +1,52 @@
-## Hi there 👋
-<!-- 🌟 Header Section -->
-# Hi there, I’m **[krishnama raju]** 👋
+Hi there 👋
+DevOps Banner
 
-- 🧑‍💻 I’m a **Backend Engineer** passionate about cloud-native architecture, automation, and scalable systems.
-- 🌍 Based in **Hindupur, Andhra Pradesh, India**
-- 💼 Currently at **OnFinance AI**, working on high-availability infrastructures on AWS.
+Hi there, I'm Raman! 👋
+🔭 I’m currently working on a DevOps project involving a live cricket match statistics tracker. It includes advanced features like CI/CD pipelines, Docker, Kubernetes, and predictive scoring models.
 
----
+🌱 I’m currently learning Cloud technologies, Kubernetes, advanced Python scripting, and manual testing to enhance my skills.
 
-## 🚀 Tech Stack
+👯 I’m looking to collaborate on projects that involve Cloud and DevOps tools like Jenkins, Terraform, and Ansible, and also data analytics projects.
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+🤔 I’m looking for help with securing a Cloud Engineer role and optimizing the deployment process in my projects using best practices.
 
----
+💬 Ask me about DevOps tools, setting up CI/CD pipelines, Cloud services (AWS), and Python scripting.
 
-## 📂 Pinned Projects
+🛠️ Skills & Tools
+AWS Docker Kubernetes Terraform Jenkins Linux Python Git SonarQube Trivy
 
-### 🌐 [AWS‑3‑Tier Infrastructure with Terraform](https://github.com/ramankrishnan/AWS-3-Tier-_with_Terraform)
-Multi-AZ VPC with EKS cluster, RDS, ALB, and monitoring via CloudWatch—fully provisioned via Terraform with best practices 🚀.
+📫 How to reach me:
 
-### 🔧 [OnFinance AI Weather Monitor](https://github.com/ramankrishnan/eks-ccluster1)
-Terraform-built EKS cluster, RDS, monitoring, and alerting infrastructure targeted at weather data processing.
+Email: ramankms767@gmail.com
+LinkedIn: Raman Krishnan
+GitHub: ramankrishnan
+😄 Pronouns: He/Him
 
----
+⚡ Fun fact: I love cricket, and I’m merging my passion for the sport with tech by creating advanced cricket scoring systems!
 
-## 📊 GitHub Stats
-
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramankrishnan&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramankrishnan&layout=compact&theme=radical)
-
----
-
-## ✨ About Me
-
-- Lover of cloud architecture, automation, and open-source.
-- Enjoy building scalable systems using Terraform & Kubernetes.
-- Always excited to contribute back to the community 🙌
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Contact-black?style=flat&logo=dev.to)](https://dev.to/yourprofile)
-📧—your.email@domain.com
-
----
-
-<!-- 📝 Recent Activity -->
-<!--START_SECTION:activity-->
-**💬 Latest Community Activity**
-<!--END_SECTION:activity-->
-
----
-
-*“Write your README before your code” – GitHub co-founder Tom Preston‑Werner encourages this as a great practice to give your project purpose and clarity* :contentReference[oaicite:1]{index=1}
+Links My GitHub Repositories
 
 
+
+Raman's GitHub Stats
+
+Raman's Contribution Graph
+
+ReadMe Card
+
+📕 Latest Blog Posts
+How to Set Up Jenkins on AWS EC2
+Using Docker for Scalable Web Apps
+📫 How to reach me:
+
+Email: ramankms767@gmail.com
+LinkedIn: raman krishnan
+GitHub: ramankrishnan
+🚀 Skills and Tools:
+Languages: Python, HTML, CSS
+DevOps Tools: Docker, Kubernetes, Jenkins, Terraform, Ansible
+Cloud: AWS (EC2, S3, Lambda), Azure
+Others: Git, SonarQube, Trivy
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I love cricket, and I’m merging my passion for the sport with tech by creating advanced cricket scoring systems!
